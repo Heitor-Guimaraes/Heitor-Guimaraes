@@ -39,4 +39,10 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+### 🔸```Estatísticas```:bar_chart:
+<div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor-Guimaraes&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias" style="flex: 1;"/>
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Heitor-Guimaraes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&count_private=true" style="flex: 1;"/>
+</div>
+
