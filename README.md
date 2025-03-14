@@ -2,8 +2,7 @@
 
 ###
 
-🔸```Tecnologias```:notebook_with_decorative_cover:
-
+### 🔸```Tecnologias```:notebook_with_decorative_cover:
 ###
 
 <div align="left">
@@ -44,7 +43,9 @@
 </div>
 
 
-<p align="left">Conecte-se a mim</p>
+
+
+### 🔸```Conecte-se a mim```:space_invader:
 
 ###
 
