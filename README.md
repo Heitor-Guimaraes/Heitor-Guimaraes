@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tecnologias</p>
+🔸```Tecnologias```:notebook_with_decorative_cover:
 
 ###
 
