@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">`````Tecnologias`````</p>
+<p align="left">Tecnologias</p>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">```Conecte-se a mim```</p>
+<p align="left">Conecte-se a mim</p>
 
 ###
 
