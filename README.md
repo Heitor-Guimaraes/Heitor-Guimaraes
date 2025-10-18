@@ -54,4 +54,4 @@
 
 
 ###
-![](./profile-3d-contrib/profile-gitblock.svg)
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de contribuições 3D"/>
