@@ -1,47 +1,39 @@
-<h2 align="left">Olá, me chamo Heitor Guimarães, Seja Bem vindo ao meu perfil</h2>
-
-###
-
-### 🔸```Tecnologias```:notebook_with_decorative_cover:
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0000,100:3d0000&height=180&section=header&text=Heitor%20Guimar%C3%A3es&fontSize=42&fontColor=FF3333&fontAlignY=55&desc=Back-End%20Developer%20%C2%B7%20Java%20%C2%B7%20AWS&descAlignY=74&descSize=14&animation=twinkling" width="100%"/>
 </div>
 
-###
+<p align="center">
+  <sub>18 y/o &nbsp;·&nbsp; São Paulo &nbsp;·&nbsp; SENAI Suiço-Brasileiro &nbsp;·&nbsp; Back-End Dev in training</sub>
+</p>
 
-### 🔸```Conecte-se a mim```:space_invader:
+<br>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,git,github,java,mysql,nodejs,sass&theme=dark" />
 </div>
 
+<br>
+<hr/>
 
-###
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de contribuições 3D"/>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Heitor-Guimaraes&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=9&fire=FF3333&ring=FF3333&currStreakLabel=FF3333" height="165"/>
+<br/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Heitor-Guimaraes&show_icons=true&theme=highcontrast&count_private=true&hide_border=true&border_radius=9&icon_color=FF3333&title_color=FF3333"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor-Guimaraes&layout=compact&hide_border=true&theme=highcontrast&border_radius=9&title_color=FF3333"/>
+</div>
+
+<hr/>
+
+<div align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heitor-Guimaraes&theme=high-contrast&hide_border=true&radius=9&color=FF3333&line=FF3333&point=ffffff" />
+</a>
+</div>
+
+<hr/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Heitor-Guimaraes&color=FF3333&style=flat-square&label=visitors" />
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:1a0000,100:0a0a0a&height=120&section=footer" width="100%"/>
+</div>
