@@ -4,7 +4,7 @@
 
 ### Olá! Eu sou o Heitor 👋
 
-Estudante de **Sistemas de Informação** e profissional da **Mundo do Enxoval**, construindo minha carreira em desenvolvimento back-end.
+Estudante de **Sistemas de Informação** e **Estagiário em Infraestrutura na Mundo do Enxoval**, construindo minha carreira em desenvolvimento back-end.
 
 Meu foco é desenvolver **APIs REST seguras, bem estruturadas e conectadas a bancos de dados**, aplicando Java, Spring Boot e boas práticas de programação.
 
@@ -17,7 +17,7 @@ Meu foco é desenvolver **APIs REST seguras, bem estruturadas e conectadas a ban
 ## Sobre mim
 
 - 🎓 Graduando em **Sistemas de Informação**
-- 💼 Atualmente atuo na **Mundo do Enxoval**
+- 💼 **Estagiário em Infraestrutura** na **Mundo do Enxoval**
 - ☕ Foco em **Java, Spring Boot, APIs REST e MySQL**
 - 🔐 Estudando autenticação, autorização e segurança de aplicações
 - 🧩 Interesse em arquitetura back-end, bancos de dados e qualidade de código
@@ -82,11 +82,19 @@ Meu foco é desenvolver **APIs REST seguras, bem estruturadas e conectadas a ban
   </tr>
 </table>
 
-## Estatísticas
+## Explore meus projetos
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Heitor-Guimaraes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=8B5CF6&text_color=C9D1D9&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor-Guimaraes&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais utilizadas"/>
+
+<p>Veja meus códigos, estudos e aplicações em desenvolvimento.</p>
+
+<a href="https://github.com/Heitor-Guimaraes?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver_todos_os_repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios"/>
+</a>
+<a href="https://github.com/Heitor-Guimaraes/finallyEcommerce">
+  <img src="https://img.shields.io/badge/Conhecer_a_API_principal-2563EB?style=for-the-badge&logo=spring&logoColor=white" alt="Conhecer a API principal"/>
+</a>
+
 </div>
 
 <div align="center">
