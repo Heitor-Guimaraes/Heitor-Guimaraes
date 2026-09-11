@@ -1,108 +1,82 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:0F172A&height=200&section=header&text=Heitor%20Guimar%C3%A3es&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Back-End%20Java%20%7C%20Spring%20Boot&descAlignY=60&descSize=18&animation=fadeIn" alt="Banner de apresentação"/>
-
-### Olá! Eu sou o Heitor 👋
-
-Estudante de **Sistemas de Informação** e **Estagiário em Infraestrutura na Mundo do Enxoval**, construindo minha carreira em desenvolvimento back-end.
-
-Meu foco é desenvolver **APIs REST seguras, bem estruturadas e conectadas a bancos de dados**, aplicando Java, Spring Boot e boas práticas de programação.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Heitor--Guimaraes-181717?style=for-the-badge&logo=github)](https://github.com/Heitor-Guimaraes)
-![Foco](https://img.shields.io/badge/Foco-Back--End%20Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white)
-![Oportunidades](https://img.shields.io/badge/Oportunidades-Estágio%20%7C%20Júnior-22C55E?style=for-the-badge)
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0000,100:3d0000&height=180&section=header&text=Heitor%20Guimar%C3%A3es&fontSize=42&fontColor=FF3333&fontAlignY=55&desc=Back-End%20Developer%20%C2%B7%20Java&descAlignY=74&descSize=14&animation=twinkling"
+    width="100%"
+    alt="Heitor Guimarães"
+  />
 </div>
 
-## Sobre mim
+<p align="center">
+  <sub>
+    18 y/o &nbsp;·&nbsp; São Paulo &nbsp;·&nbsp; SENAI Suíço-Brasileiro &nbsp;·&nbsp; Back-End Dev in training
+  </sub>
+</p>
 
-- 🎓 Graduando em **Sistemas de Informação**
-- 💼 **Estagiário em Infraestrutura** na **Mundo do Enxoval**
-- ☕ Foco em **Java, Spring Boot, APIs REST e MySQL**
-- 🔐 Estudando autenticação, autorização e segurança de aplicações
-- 🧩 Interesse em arquitetura back-end, bancos de dados e qualidade de código
-- 🚀 Em busca de oportunidades como **Estagiário, Assistente ou Desenvolvedor Back-End Júnior**
+<br>
 
-## Tecnologias
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,postman,js,react,html,css,python,nodejs&theme=dark"
+    alt="Tech Stack"
+  />
+</p>
 
-<div align="center">
+<br>
 
-### Back-end e banco de dados
+<hr>
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,docker&theme=dark" alt="Java, Spring, MySQL, Maven e Docker"/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Heitor-Guimaraes&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=9&fire=FF3333&ring=FF3333&currStreakLabel=FF3333"
+    height="165"
+    alt="GitHub Streak"
+  />
+</p>
 
-### Ferramentas e conhecimentos complementares
+<br>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,js,react,html,css&theme=dark" alt="Git, GitHub, Postman, IntelliJ, VS Code, JavaScript, React, HTML e CSS"/>
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=Heitor-Guimaraes&show_icons=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=FF3333&icon_color=FF3333&text_color=ffffff"
+    alt="GitHub Stats"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats-sigma-ruby-74.vercel.app/api/top-langs/?username=Heitor-Guimaraes&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FF3333&text_color=ffffff"
+    alt="Top Languages"
+  />
+</p>
 
-</div>
+<br>
 
-## Projetos em destaque
+<hr>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛒 API de E-commerce</h3>
-      <p>Back-end desenvolvido com Java 17 e Spring Boot, utilizando JPA, Validation, Spring Security, autenticação JWT e MySQL.</p>
-      <p align="center">
-        <a href="https://github.com/Heitor-Guimaraes/finallyEcommerce">
-          <img src="https://img.shields.io/badge/Ver_repositório-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver API de E-commerce"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔐 E-commerce Security</h3>
-      <p>Projeto back-end para praticar segurança, persistência e validação com Spring Security, Spring Data JPA, MySQL e Docker Compose.</p>
-      <p align="center">
-        <a href="https://github.com/Heitor-Guimaraes/Ecommerce-Secutiry">
-          <img src="https://img.shields.io/badge/Ver_repositório-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Ver E-commerce Security"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚽ Football Management</h3>
-      <p>Sistema em Java que aplica orientação a objetos com herança, encapsulamento, abstração, polimorfismo e interfaces.</p>
-      <p align="center">
-        <a href="https://github.com/Heitor-Guimaraes/football-management">
-          <img src="https://img.shields.io/badge/Ver_repositório-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Football Management"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Todo List Mobile</h3>
-      <p>Aplicação de gerenciamento de tarefas desenvolvida com React Native e Expo, com organização por data e interface mobile.</p>
-      <p align="center">
-        <a href="https://github.com/Heitor-Guimaraes/TodoList-Mobile">
-          <img src="https://img.shields.io/badge/Ver_repositório-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Ver Todo List Mobile"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Heitor-Guimaraes&bg_color=0a0a0a&color=FF3333&line=FF3333&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
-## Explore meus projetos
+<br>
+
+<hr>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Heitor-Guimaraes&color=FF3333&style=flat-square&label=visitors"
+    alt="Visitors"
+  />
+</p>
+
+<br>
 
 <div align="center">
-
-<p>Veja meus códigos, estudos e aplicações em desenvolvimento.</p>
-
-<a href="https://github.com/Heitor-Guimaraes?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver_todos_os_repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios"/>
-</a>
-<a href="https://github.com/Heitor-Guimaraes/finallyEcommerce">
-  <img src="https://img.shields.io/badge/Conhecer_a_API_principal-2563EB?style=for-the-badge&logo=spring&logoColor=white" alt="Conhecer a API principal"/>
-</a>
-
-</div>
-
-<div align="center">
-
-### Vamos construir algo juntos?
-
-Estou aberto a oportunidades, colaboração em projetos e troca de conhecimento sobre desenvolvimento back-end.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6D28D9,100:2563EB&height=110&section=footer" alt="Rodapé"/>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:1a0000,100:0a0a0a&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </div>
