@@ -12,11 +12,11 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Heitor-Guimaraes&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=9&fire=FF3333&ring=FF3333&currStreakLabel=FF3333)
+![GitHub Streak](https://streak-stats.demolab.com?user=Heitor-Guimaraes&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=9&fire=FF3333&ring=FF3333&currStreakLabel=FF3333)
 
 <br>
 
-<img height="170" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=Heitor-Guimaraes&show_icons=true&count_private=true&hide_border=true&border_radius=9&bg_color=0a0a0a&title_color=FF3333&icon_color=FF3333&text_color=ffffff" alt="GitHub Stats"> <img height="170" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api/top-langs/?username=Heitor-Guimaraes&layout=compact&hide_border=true&border_radius=9&bg_color=0a0a0a&title_color=FF3333&text_color=ffffff" alt="Top Languages">
+<img height="170" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=Heitor-Guimaraes&show_icons=true&count_private=true&cache_seconds=21600&hide_border=true&border_radius=9&bg_color=0a0a0a&title_color=FF3333&icon_color=FF3333&text_color=ffffff" alt="GitHub Stats"> <img height="170" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api/top-langs/?username=Heitor-Guimaraes&layout=compact&cache_seconds=21600&hide_border=true&border_radius=9&bg_color=0a0a0a&title_color=FF3333&text_color=ffffff" alt="Top Languages">
 
 <br>
 
