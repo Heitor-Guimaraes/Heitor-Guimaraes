@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=520&lines=APIs+REST+com+Java+e+Spring+Boot;Spring+Security+%2B+JWT;Spring+Data+JPA+%C2%B7+MySQL+%C2%B7+PostgreSQL;Arquitetura+em+camadas+e+boas+pr%C3%A1ticas)](https://github.com/Heitor-Guimaraes)
 
-<sub>18 y/o · São Paulo · Sistemas de Informação (Senac) · Desenvolvimento de Sistemas (SENAI)</sub>
+<sub>São Paulo · Sistemas de Informação (Senac) · Desenvolvimento de Sistemas (SENAI)</sub>
 
 <br><br>
 
