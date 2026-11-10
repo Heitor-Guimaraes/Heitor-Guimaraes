@@ -1,73 +1,35 @@
 <div align="center">
 
-![Heitor Guimarães](https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,60:121A33,100:1D2747&height=190&section=header&text=Heitor%20Guimar%C3%A3es&fontSize=44&fontColor=4FD1FF&fontAlignY=52&desc=CHANGELOG.md%20%C2%B7%20Back-end%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot&descAlignY=72&descSize=15&animation=fadeIn)
+![Heitor Guimarães](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0000,100:3d0000&height=180&section=header&text=Heitor%20Guimar%C3%A3es&fontSize=42&fontColor=FF3333&fontAlignY=55&desc=Back-End%20Developer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot&descAlignY=74&descSize=14&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=4FD1FF&center=true&vCenter=true&width=520&lines=APIs+REST+com+Java+e+Spring+Boot;Spring+Security+%2B+JWT;Spring+Data+JPA+%C2%B7+MySQL+%C2%B7+PostgreSQL;Arquitetura+em+camadas+e+boas+pr%C3%A1ticas)](https://github.com/Heitor-Guimaraes)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=520&lines=APIs+REST+com+Java+e+Spring+Boot;Spring+Security+%2B+JWT;Spring+Data+JPA+%C2%B7+MySQL+%C2%B7+PostgreSQL;Arquitetura+em+camadas+e+boas+pr%C3%A1ticas)](https://github.com/Heitor-Guimaraes)
 
-![Disponível](https://img.shields.io/badge/●%20disponível-aberto%20a%20estágio%20e%20vaga%20júnior-121A33?style=for-the-badge&labelColor=FF5C5C)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-heitor--perciliano-4FD1FF?style=for-the-badge&logo=linkedin&logoColor=0B1020&labelColor=121A33)](https://www.linkedin.com/in/heitor-perciliano)
+<sub>São Paulo · Sistemas de Informação (Senac) · Desenvolvimento de Sistemas (SENAI)</sub>
 
-</div>
+<br><br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-heitor--perciliano-FF3333?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/heitor-perciliano)
 
-## `[Unreleased]` · em desenvolvimento
+<br><br>
 
-### Emprega.co
+![Tech Stack](https://skillicons.dev/icons?i=java,spring,mysql,postgres,maven,docker,git,github,postman&theme=dark&perline=9)
 
-> Plataforma de vagas para uma instituição do **G10 das Favelas**.
-> Software voluntário, feito por um time de 5 pessoas.
-
-![Papel](https://img.shields.io/badge/meu%20papel-Dev%20full%20stack-1D2747?style=flat-square&labelColor=121A33)
-![Time](https://img.shields.io/badge/time-5%20pessoas-1D2747?style=flat-square&labelColor=121A33)
-![Tipo](https://img.shields.io/badge/tipo-Voluntário-1D2747?style=flat-square&labelColor=121A33)
+<br>
 
 ---
 
-## Histórico
+![GitHub Streak](https://streak-stats.demolab.com?user=Heitor-Guimaraes&locale=pt_BR&mode=weekly&theme=highcontrast&hide_border=true&border_radius=9&fire=FF3333&ring=FF3333&currStreakLabel=FF3333)
 
-### `[0.3.0]` · jul/2026 – atual
-**Estágio em Infraestrutura de TI** — Mundo do Enxoval
-<br><sub>quem mantém no ar</sub>
+<br>
 
-### `[0.2.0]` · jan – abr/2026
-**Aprendiz de Service Desk** — Hitss Brasil
-<br><sub>quem atende o usuário</sub>
+<img height="170" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=Heitor-Guimaraes&locale=pt-br&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=21600&hide_border=true&border_radius=9&bg_color=0a0a0a&title_color=FF3333&icon_color=FF3333&text_color=ffffff" alt="GitHub Stats"> <img height="170" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api/top-langs/?username=Heitor-Guimaraes&locale=pt-br&layout=compact&langs_count=6&cache_seconds=21600&hide_border=true&border_radius=9&bg_color=0a0a0a&title_color=FF3333&text_color=ffffff" alt="Top Languages">
 
-### `[0.1.0]` · nov/2025 – jan/2026
-**Estágio em QA, testes de APIs REST** — Stigma System
-<br><sub>quem testa</sub>
+<br><br>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+![Visitors](https://komarev.com/ghpvc/?username=Heitor-Guimaraes&color=FF3333&style=flat-square&label=Visitas)
 
-### Stack
-
-![Stack](https://skillicons.dev/icons?i=java,spring,mysql,postgres,maven,docker,git,postman&theme=dark&perline=4)
-
-</td>
-<td width="50%" valign="top">
-
-### Formação
-
-- Sistemas de Informação — **Senac**
-- Desenvolvimento de Sistemas — **SENAI**
-
-<sub>São Paulo, BR</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Heitor-Guimaraes&locale=pt_BR&mode=weekly&hide_border=true&border_radius=16&background=121A33&stroke=2B3763&ring=FF5C5C&fire=FF5C5C&currStreakNum=EEF2FF&sideNums=EEF2FF&currStreakLabel=FF5C5C&sideLabels=EEF2FF&dates=AEB9D6)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1D2747,40:121A33,100:0B1020&height=110&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:1a0000,100:0a0a0a&height=120&section=footer)
 
 </div>
